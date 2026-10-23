@@ -51,7 +51,7 @@ Full-Stack Development • Systems Engineering • Linux  • Software Engineeri
 
 ## 📫 Get in Touch
 
-- Email: bndoooory511@gmail.com
+- Email: bandarfaiezs@gmail.com
 <!--
 **BandarALThobaiti/BandarALThobaiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
